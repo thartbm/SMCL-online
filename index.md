@@ -11,3 +11,13 @@ Measures impulse control, as well as processing time. This task involves refrain
 Measures working memory and working memory capacity; it requires participants to indicate whether the current stimulus matches the one from “N” (here 1, 2 or 3) steps earlier in the sequence.
 
 [try it here](https://run.pavlovia.org/smcl/n-back/html?participant=demo&group=demo)
+
+### Mirror Reversed Reaching
+Measures inhibition as well as the ability to learn a new indirect visuomotor mapping. This task used by Sergio et al., (Fig 1) and others involve reaching targets with a cursor that is mirror-reversed (i.e. cursor moves left when moving the mouse right).
+
+[try it here](https://run.pavlovia.org/smcl/mirrorreversal/html?participant=demo&group=demo)
+
+### Task Switching
+Measures the cost of switching from one task to another, both in reaction time and accuracy. It compares performance between switch trials and repeat trials, as well between a task-switching block and single-task blocks.
+
+[try it here](https://run.pavlovia.org/smcl/taskswitching/html?participant=demo&group=demo)
