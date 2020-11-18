@@ -21,3 +21,8 @@ Measures inhibition as well as the ability to learn a new indirect visuomotor ma
 Measures the cost of switching from one task to another, both in reaction time and accuracy. It compares performance between switch trials and repeat trials, as well between a task-switching block and single-task blocks.
 
 [try it here](https://run.pavlovia.org/smcl/taskswitching/html?participant=demo&group=demo)
+
+### Visual Search
+Measures top-down attentional processes incolved in serial search. This task involves indicating if the target letter “T” is present among 6, 12 or 18 symbols (such as L’s) or not (50% - 50%).
+
+[try it here](https://run.pavlovia.org/smcl/visualsearch/html?participant=demo&group=demo)
