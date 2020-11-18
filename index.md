@@ -13,7 +13,7 @@ Measures working memory and working memory capacity; it requires participants to
 [try it here](https://run.pavlovia.org/smcl/n-back/html?participant=demo&group=demo)
 
 ### Mirror Reversed Reaching
-Measures inhibition as well as the ability to learn a new indirect visuomotor mapping. This task used by Sergio et al., (Fig 1) and others involve reaching targets with a cursor that is mirror-reversed (i.e. cursor moves left when moving the mouse right).
+Measures inhibition as well as _de novo_ learning, as opposed to adapting existing visuo-motor maps. It involves reaching targets with a cursor that is mirror-reversed (i.e. cursor moves left when moving the mouse right).
 
 [try it here](https://run.pavlovia.org/smcl/mirrorreversal/html?participant=demo&group=demo)
 
