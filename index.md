@@ -26,3 +26,13 @@ Measures the cost of switching from one task to another, both in reaction time a
 Measures top-down attentional processes incolved in serial search. This task involves indicating if the target letter “T” is present among 6, 12 or 18 symbols (such as L’s) or not (50% - 50%).
 
 [try it here](https://run.pavlovia.org/smcl/visualsearch/html?participant=demo&group=demo)
+
+### Tunneling
+Measures visuomotor acuity by having participants quickly navigating a cursor (by moving a mouse) along a narrow-curved tunnel without touching the edges. Here we look at the speed-accuracy trade-off in this skilled task.
+
+[try it here](https://run.pavlovia.org/smcl/tunneling/html?participant=demo&group=demo)
+
+### TrailMaking
+A common neuropsychological tool, assessing multiple processes such as visual search, speed of processing, mental flexibility, as well as executive functioning. Participants move a mouse cursor from 1 to 9 and A to I, interleaved: 1-A-2-B-.. etc.
+
+[try it here](https://run.pavlovia.org/smcl/trailmaking/html?participant=demo&group=demo)
