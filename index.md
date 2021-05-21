@@ -36,3 +36,9 @@ Measures visuomotor acuity by having participants quickly navigating a cursor (b
 A common neuropsychological tool, assessing multiple processes such as visual search, speed of processing, mental flexibility, as well as executive functioning. Participants move a mouse cursor from 1 to 9 and A to I, interleaved: 1-A-2-B-.. etc.
 
 [try it here](https://run.pavlovia.org/smcl/trailmaking/html?participant=demo&group=demo)
+
+### Iowa Gambling Task
+
+A popular task in cognitive psychology to measure decision making and executive function in the face of uncertainty. Pick a card from 1 of 4 decks, all of them always give a reward, but there are sometimes also losses of various size.
+
+[try it here](https://run.pavlovia.org/smcl/iowacards?participant=demo&group=demo&survey-url=none&touchscreen=0)
