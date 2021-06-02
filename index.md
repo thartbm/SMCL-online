@@ -5,7 +5,7 @@ We use [Pavlovia](https://pavlovia.org) to host PsychoJS experiments, created wi
 ### Go-NoGo
 Measures impulse control, as well as processing time. This task involves refraining from responding to 20% “No-Go” stimuli, embedded in 80% "Go" stimuli.
 
-[try it here](https://run.pavlovia.org/smcl/go-nogo/html?participant=demo&group=demo)
+[try it here](https://run.pavlovia.org/covid/go-nogo/html?participant=demo&group=demo&touchscreen=0&return_url=https://thartbm.github.io/SMCL-online/)
 
 ### N-back
 Measures working memory and working memory capacity; it requires participants to indicate whether the current stimulus matches the one from “N” (here 1, 2 or 3) steps earlier in the sequence.
