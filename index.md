@@ -10,7 +10,7 @@ Measures impulse control, as well as processing time. This task involves refrain
 ### N-back
 Measures working memory and working memory capacity; it requires participants to indicate whether the current stimulus matches the one from “N” (here 1, 2 or 3) steps earlier in the sequence.
 
-[try it here](https://run.pavlovia.org/smcl/n-back/html?participant=demo&group=demo)
+[try it here](https://run.pavlovia.org/covid/nback?participant=demo&group=demo&touchscreen=0&return_url=https://thartbm.github.io/SMCL-online/)
 
 ### Reversed Reaching
 Measures action inhibition and cognitive control of movement. It involves reaching targets with a cursor that is mirror-reversed (i.e. cursor moves left when moving the mouse right).
